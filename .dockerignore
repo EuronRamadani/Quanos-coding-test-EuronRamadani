@@ -5,4 +5,3 @@ dist
 .github
 *.md
 .env.local
-.env.example
